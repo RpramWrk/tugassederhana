@@ -1,6 +1,16 @@
-# tugassederhana
+# pastibisa
 
-![Screenshot (111)](https://user-images.githubusercontent.com/126688399/232981017-6339f796-4a16-40d5-87f5-582da3b8c3e3.png)
-![Screenshot (113)](https://user-images.githubusercontent.com/126688399/232981026-5e345532-9994-4da8-b07c-e42885576bb0.png)
-![Screenshot (110)](https://user-images.githubusercontent.com/126688399/232981032-1a69ce98-13ba-4fbb-b58f-d51b618b8356.png)
-![Screenshot (112)](https://user-images.githubusercontent.com/126688399/232981207-8162bf17-0feb-4c85-8318-e6fec01c7661.png)
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
